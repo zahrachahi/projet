@@ -1,5 +1,6 @@
-{       "author": "zahra chahi",
+{       
 	"name": "fcc-learn-npm-package-json",
+	"author": "zahra chahi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
